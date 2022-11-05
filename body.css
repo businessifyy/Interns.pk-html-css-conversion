@@ -1,0 +1,94 @@
+body {
+    background-color: #589ed9;
+    background: #589ed9;
+    font-family: 'Open Sans', sans-serif;
+}
+
+html {
+	width: 220px;
+	height: 100%;
+	padding: 0px auto;
+	margin: 0px auto;
+	font-size: 14px;
+}
+
+.main {
+    background: #589ed9;
+    margin: 30px auto;
+    text-align: center;
+    color: #fff;
+}
+
+.logo {
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    margin: 0 auto;
+    padding: 0px;
+}
+
+.logotext {
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.formm input {
+  width: 100%;
+	margin: 0px;
+	font-size: 13px;
+	color: #2c3e50;
+	margin: 0;
+	padding: 0;
+	border: none;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+
+.formm .input1 {
+    
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
+	border-bottom: 0;
+	text-indent: 20px;
+
+}
+
+.formm .input2 {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-bottom-left-radius: 6px;
+	border-bottom-right-radius: 6px;
+	border-top: 1px solid #ccc;
+	text-indent: 20px
+	
+}
+
+.submit .submit1 {
+    margin-top: 10px;
+    height: 40px;
+    border-radius: 6px;
+    width: 100%;
+    background: #2186d4;
+	color: #fff;
+    border: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.signup p, a {
+    font-weight: 600;
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+}
